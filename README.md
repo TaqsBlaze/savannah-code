@@ -26,6 +26,11 @@ A Visual Studio Code theme inspired by the African safari landscape warm sunsets
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TaqsBlaze/savannah-code/refs/heads/main/screenshots/Screenshot%202026-02-20%20023227.png" width="38%" />
+  <img src="https://raw.githubusercontent.com/TaqsBlaze/savannah-code/refs/heads/main/screenshots/Screenshot%202026-02-20%20023311.png" width="38%" />
+  <img src="https://github.com/TaqsBlaze/savannah-code/blob/main/screenshots/Screenshot%202026-02-20%20023541.png?raw=true" width="38%" />
+</p>
 ## 🎨 Color Palette
 
 The palette draws directly from the African landscape:
