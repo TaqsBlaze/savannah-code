@@ -12,7 +12,7 @@
 
 > *"Code under the African sky."*
 
-A Visual Studio Code theme inspired by the African safari landscape — warm sunsets, golden savannah grass, acacia trees, red earth, night skies, and the timeless beauty of wildlife.
+A Visual Studio Code theme inspired by the African safari landscape warm sunsets, golden savannah grass, acacia trees, red earth, night skies, and the timeless beauty of wildlife.
 
 ---
 
@@ -49,15 +49,9 @@ The palette draws directly from the African landscape:
 
 ## 📦 Installation
 
-### Via VS Code Marketplace
-
-1. Open VS Code
-2. Press `Ctrl+P` (or `Cmd+P` on macOS)
-3. Run: `ext install your-name.savannah-code`
-
 ### Manual Installation
 
-1. Download the `.vsix` file from the [releases page](https://github.com/your-name/savannah-code/releases)
+1. Download the `.vsix` file from the [releases page](https://github.com/taqsblaze/savannah-code/releases)
 2. Open VS Code and press `Ctrl+Shift+P`
 3. Select **Extensions: Install from VSIX...**
 4. Choose the downloaded file
@@ -65,7 +59,7 @@ The palette draws directly from the African landscape:
 ### From Source
 
 ```bash
-git clone https://github.com/your-name/savannah-code.git
+git clone https://github.com/taqsblaze/savannah-code.git
 cd savannah-code-theme
 npm install -g @vscode/vsce
 vsce package
