@@ -1,0 +1,49 @@
+{
+  "name": "savannah-code",
+  "displayName": "Savannah Code",
+  "description": "An African Safari inspired VS Code theme: code under the African sky.",
+  "version": "1.0.0",
+  "publisher": "Tanaka",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": ["Themes"],
+  "keywords": [
+    "theme",
+    "african",
+    "safari",
+    "dark",
+    "warm",
+    "earth tones",
+    "savannah"
+  ],
+  "icon": "assets/logo.png",
+  "galleryBanner": {
+    "color": "#1C1A17",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-name/savannah-code"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Savannah Sunset",
+        "uiTheme": "vs-dark",
+        "path": "./themes/savannah-sunset.json"
+      },
+      {
+        "label": "Savannah Dawn",
+        "uiTheme": "vs",
+        "path": "./themes/savannah-dawn.json"
+      },
+      {
+        "label": "Safari Midnight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/safari-midnight.json"
+      }
+    ]
+  }
+}
