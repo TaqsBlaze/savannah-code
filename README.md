@@ -4,10 +4,10 @@
 ![GitHub issues](https://img.shields.io/github/issues/TaqsBlaze/savannah-code?style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/TaqsBlaze/savannah-code?style=for-the-badge)
 ![GitHub license](https://img.shields.io/github/license/TaqsBlaze/savannah-code?style=for-the-badge)
-![VS Code Installs](https://img.shields.io/visual-studio-marketplace/i/TanakaChinengundu.savanah-code?style=for-the-badge)
-![VS Code Rating](https://img.shields.io/visual-studio-marketplace/r/TanakaChinengundu.savanah-code?style=for-the-badge)
-![VS Code Version](https://img.shields.io/visual-studio-marketplace/v/TanakaChinengundu.savanah-code?style=for-the-badge)
-[![VS Code Marketplace](https://img.shields.io/badge/Marketplace-Savannah%20Code-orange?style=for-the-badge&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=TanakaChinengundu.savanah-code)
+![VS Code Installs](https://img.shields.io/visual-studio-marketplace/i/TanakaChinengundu.savannah-code?style=for-the-badge)
+![VS Code Rating](https://img.shields.io/visual-studio-marketplace/r/TanakaChinengundu.savannah-code?style=for-the-badge)
+![VS Code Version](https://img.shields.io/visual-studio-marketplace/v/TanakaChinengundu.savannah-code?style=for-the-badge)
+[![VS Code Marketplace](https://img.shields.io/badge/Marketplace-Savannah%20Code-orange?style=for-the-badge&logo=visualstudiocode)](https://marketplace.visualstudio.com/items?itemName=TanakaChinengundu.savannah-code)
 # 🐘 Savannah Code
 
 > *"Code under the African sky."*
