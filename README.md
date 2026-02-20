@@ -1,4 +1,4 @@
-
+![icon](https://raw.githubusercontent.com/TaqsBlaze/savannah-code/refs/heads/main/assets/banner.png)
 
 ![GitHub stars](https://img.shields.io/github/stars/TaqsBlaze/savannah-code?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues/TaqsBlaze/savannah-code?style=for-the-badge)
